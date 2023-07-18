@@ -2,7 +2,6 @@ console.log("Selamat Anda Berhasil Membuat Javascript pada Website");
 
 const calculator = {
     displayNumber : '0',
-    displayLovers : 'Bili dan Silpi',
     operator : null,
     firstNumber : null,
     isWaitForSecondNumber : false,
